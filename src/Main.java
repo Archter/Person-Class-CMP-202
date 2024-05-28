@@ -7,6 +7,6 @@ public static void main(String[] args) {
     System.out.println(person.getPassword());
 
     Physics physics = new Physics();
-    System.out.println(physics.initialVelocity1(23, 2);
+    System.out.println(physics.initialVelocity1(23, 2));
     System.out.println(physics.calculateVelocity(23, 53, 2));
 }
